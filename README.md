@@ -1,4 +1,4 @@
-A 3dof browser I created in [November 2024](https://www.reddit.com/r/RayNeo/comments/1ghqt8w/taplink_browse_the_internet_entirely_from_your/) for RayNeo X2. It works on Rayneo X3Pro too, though the port from InformalTech is more practical to use on these glasses.
+A 3dof browser I created in [November 2024](https://www.reddit.com/r/RayNeo/comments/1ghqt8w/taplink_browse_the_internet_entirely_from_your/) for RayNeo X2. It works on Rayneo X3Pro too.
 
 Apk can be downloaded [here](https://drive.google.com/file/d/1f-boxhhJZGgNInatY--o-o_nFf5nBQom/view?usp=sharing).
 
