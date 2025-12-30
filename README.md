@@ -4,7 +4,7 @@ Apk can be downloaded [here](https://drive.google.com/file/d/1f-boxhhJZGgNInatY-
 
 The history of this development can be accessed in the [pastebin](https://pastebin.com/80GGhiEK).
 
-I'll continue developments for my own needs and release a version for X3Pro. Once I put my hands on Inmo Air3 I'll develop a port towards it too. 
+I'll continue developments for my own needs and release a version for X3Pro (InformalTech has come up with [his fork for X3Pro](https://github.com/informalTechCode/TAPLINKX3)). Once I put my hands on Inmo Air3 I'll develop a port towards it too. 
 Feel free to contact me if you have any feature ideas. This browser was and will be community-driven. Its purpose is to be as convenient to use as possible from AR glasses.
 
 
